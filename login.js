@@ -14,4 +14,4 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
       alert('Invalid username or password');
     }
   });
-  
+  alert('Invalid username or password');
